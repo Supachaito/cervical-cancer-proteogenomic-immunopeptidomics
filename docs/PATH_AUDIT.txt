@@ -1,0 +1,3 @@
+Personal/local absolute path audit
+===============================
+PASS: no workstation-specific absolute project paths detected in public scripts/docs.

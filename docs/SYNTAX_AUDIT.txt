@@ -1,0 +1,1 @@
+PASS: all eight Python scripts compile successfully with Python compileall.

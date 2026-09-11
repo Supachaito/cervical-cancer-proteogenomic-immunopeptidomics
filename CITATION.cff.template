@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and archived software release."
+title: "Proteogenomic immunopeptidomics analysis of cervical cancer"
+type: software
+authors:
+  - family-names: Topanurak
+    given-names: Supachai
+version: 1.0.0
+repository-code: "https://github.com/REPLACE_WITH_USERNAME/cervical-cancer-proteogenomic-immunopeptidomics"
